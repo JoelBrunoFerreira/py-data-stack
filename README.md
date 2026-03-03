@@ -172,5 +172,4 @@ Joel Bruno Ferreira — but feel free to use, adapt, and share.
 
 ---
 
-*Built with 🐍 Python · Maintained as a living reference — contributions welcome!*\
-*btw... I use Arch 😎* 
+*Built with 🐍 Python · Maintained as a living reference — contributions are welcome!*
